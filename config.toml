@@ -1,4 +1,4 @@
-baseURL = "https://github.com/alexandre87/hugo/"
+baseURL = "https://alexandre87.github.io/style.github.io/"
 languageCode = "fr"
 title = "Agence web en Vendée"
 theme = "meghna-hugo"
